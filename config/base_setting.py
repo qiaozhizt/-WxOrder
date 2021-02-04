@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 SERVER_PORT = 8999
-SQLALCHEMY_DATABASE_URI = "mysql://pg_dev:pg_dev@127.0.0.1/mysql"
-SQLALCHEMY_TRACK_MODIFICATIONS = False
+DEBUG = False
+SQLALCHEMY_ECHO = False
